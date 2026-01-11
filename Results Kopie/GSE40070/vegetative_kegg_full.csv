@@ -1,0 +1,7 @@
+"query","significant","p_value","term_size","query_size","intersection_size","precision","recall","term_id","source","term_name","effective_domain_size","source_order","parents"
+"query_1",TRUE,7.02091945431904e-07,198,277,39,0.140794223826715,0.196969696969697,"KEGG:04075","KEGG","Plant hormone signal transduction",3709,262,"KEGG:00000"
+"query_1",TRUE,2.02155995463354e-05,105,277,24,0.0866425992779783,0.228571428571429,"KEGG:04016","KEGG","MAPK signaling pathway - plant",3709,249,"KEGG:00000"
+"query_1",TRUE,0.000460661118910628,135,277,25,0.0902527075812274,0.185185185185185,"KEGG:04626","KEGG","Plant-pathogen interaction",3709,331,"KEGG:00000"
+"query_1",TRUE,0.0219312083852462,952,277,94,0.339350180505415,0.0987394957983193,"KEGG:01110","KEGG","Biosynthesis of secondary metabolites",3709,182,"KEGG:00000"
+"query_1",TRUE,0.0222471682955788,1675,277,150,0.541516245487365,0.0895522388059701,"KEGG:01100","KEGG","Metabolic pathways",3709,181,"KEGG:00000"
+"query_1",TRUE,0.0225538367224116,103,277,17,0.0613718411552347,0.16504854368932,"KEGG:00520","KEGG","Amino sugar and nucleotide sugar metabolism",3709,69,"KEGG:00000"

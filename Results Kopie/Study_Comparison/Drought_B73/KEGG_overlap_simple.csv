@@ -1,0 +1,4 @@
+"term_id","term_name","source","p_value","intersection_size","term_size","query_size"
+"KEGG:04075","Plant hormone signal transduction","KEGG",0.00175787287827481,12,198,62
+"KEGG:04626","Plant-pathogen interaction","KEGG",0.00175787287827481,10,135,62
+"KEGG:00906","Carotenoid biosynthesis","KEGG",0.00741284033267932,4,23,62

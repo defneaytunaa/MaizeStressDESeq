@@ -1,0 +1,4 @@
+"query","significant","p_value","term_size","query_size","intersection_size","precision","recall","term_id","source","term_name","effective_domain_size","source_order","parents"
+"query_1",TRUE,0.00175787287827481,198,62,12,0.193548387096774,0.0606060606060606,"KEGG:04075","KEGG","Plant hormone signal transduction",3709,262,"KEGG:00000"
+"query_1",TRUE,0.00175787287827481,135,62,10,0.161290322580645,0.0740740740740741,"KEGG:04626","KEGG","Plant-pathogen interaction",3709,331,"KEGG:00000"
+"query_1",TRUE,0.00741284033267932,23,62,4,0.0645161290322581,0.173913043478261,"KEGG:00906","KEGG","Carotenoid biosynthesis",3709,135,"KEGG:00000"
