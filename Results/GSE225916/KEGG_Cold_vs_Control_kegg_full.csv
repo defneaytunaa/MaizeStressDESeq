@@ -1,0 +1,2 @@
+"query","significant","p_value","term_size","query_size","intersection_size","precision","recall","term_id","source","term_name","effective_domain_size","source_order","parents"
+"query_1",TRUE,0.0188588161042458,188,1584,105,0.0662878787878788,0.558510638297872,"KEGG:04141","KEGG","Protein processing in endoplasmic reticulum",3709,278,"KEGG:00000"
