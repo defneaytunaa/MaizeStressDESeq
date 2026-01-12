@@ -31,7 +31,7 @@ Biological interpretation of DEGs using GO and KEGG.
 
 ### 4. Cross-Study & Cross-Stress Meta-Analysis
 Identifying the 496-gene conserved "core" between drought and cold.
-- **Script:** `Scripts/04_Meta_Analysis_Drought.R`, `Scripts/05_Meta_Analysis_Cold.R` ,`Scripts/06_Meta_Analysis_Heat.R`,`Scripts/06_Enrichment_Overlapping_Genes.R` ,`Scripts/07_Functional_Meta_Analysis.R``
+- **Script:** `Scripts/04_Meta_Analysis_Drought.R`, `Scripts/05_Meta_Analysis_Cold.R` ,`Scripts/06_Meta_Analysis_Heat.R`,`Scripts/06_Enrichment_Overlapping_Genes.R` ,`Scripts/07_Functional_Meta_Analysis.R`
 - **Visuals:** Venn diagrams, UpSet plots, and functional similarity heatmaps.
 
 ### 5. GWAS Integration
