@@ -17,7 +17,7 @@ The repository is organized to follow the logical flow of the thesis:
 
 ### 1. Data Retrieval & Preprocessing
 Raw RNA-seq data (FASTQ) were retrieved from NCBI GEO/SRA using the **SRA Toolkit**.
-- **Pipeline:** Preprocessing and quantification were performed using the [nf-core/rnaseq](https://nf-core.u7.io/rnaseq) pipeline (Nextflow).
+- **Pipeline:** Preprocessing and quantification were performed using the https://github.com/nf-core/rnaseq pipeline (Nextflow).
 
 ### 2. Differential Expression Analysis
 Statistical testing was performed using **DESeq2**.
