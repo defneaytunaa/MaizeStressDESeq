@@ -1,0 +1,90 @@
+"term_id","term_name","Cold","Drought"
+"GO:0042221","response to chemical",3.65358986485425,4.30488728927002
+"GO:2001141","regulation of RNA biosynthetic process",3.51774269193628,3.14069481376132
+"GO:1901700","response to oxygen-containing compound",3.51774269193628,4.35171751549577
+"GO:0006355","regulation of DNA-templated transcription",3.51774269193628,3.14069481376132
+"GO:0050896","response to stimulus",3.21821556319166,1.93579841631808
+"GO:0051252","regulation of RNA metabolic process",3.14536615339296,2.79022443867824
+"GO:0050789","regulation of biological process",3.14536615339296,2.79049903933558
+"GO:0009889","regulation of biosynthetic process",3.14536615339296,1.63486103594211
+"GO:0065007","biological regulation",3.10500612952105,2.40174149168496
+"GO:0009408","response to heat",3.10500612952105,0
+"GO:0009266","response to temperature stimulus",3.10500612952105,0
+"GO:0019219","regulation of nucleobase-containing compound metabolic process",3.10500612952105,2.79049903933558
+"GO:0009628","response to abiotic stimulus",2.99128802767754,0
+"GO:0009719","response to endogenous stimulus",2.99128802767754,4.35171751549577
+"GO:0009725","response to hormone",2.99128802767754,4.35171751549577
+"GO:0010556","regulation of macromolecule biosynthetic process",2.97456218718232,1.68013932261104
+"GO:0010468","regulation of gene expression",2.82898467186119,1.69656085752627
+"GO:0080090","regulation of primary metabolic process",2.78289075743859,1.79078660546928
+"GO:0019222","regulation of metabolic process",2.67757603208714,0
+"GO:0050794","regulation of cellular process",2.61882183443684,2.67604294106234
+"GO:0060255","regulation of macromolecule metabolic process",2.32952971567447,1.39519707997323
+"GO:0006565","L-serine catabolic process",2.26013366068811,0
+"GO:0048580","regulation of post-embryonic development",2.26013366068811,0
+"GO:2000026","regulation of multicellular organismal development",2.13180817036222,0
+"GO:0051239","regulation of multicellular organismal process",2.08178242524547,0
+"GO:0010029","regulation of seed germination",1.94580442319537,0
+"GO:0006351","DNA-templated transcription",1.90352666061018,2.43155733043865
+"GO:0006470","protein dephosphorylation",1.8529675700255,1.37283891676401
+"GO:0120254","olefinic compound metabolic process",1.85111506605123,0
+"GO:0009845","seed germination",1.85111506605123,0
+"GO:1904482","cellular response to tetrahydrofolate",1.85111506605123,0
+"GO:1904481","response to tetrahydrofolate",1.85111506605123,0
+"GO:0009755","hormone-mediated signaling pathway",1.85111506605123,2.79049903933558
+"GO:0033993","response to lipid",1.77841104814469,3.81165465607321
+"GO:0070887","cellular response to chemical stimulus",1.74659785137503,1.61615280898534
+"GO:0071495","cellular response to endogenous stimulus",1.74659785137503,2.79049903933558
+"GO:1900140","regulation of seedling development",1.74659785137503,0
+"GO:2000031","regulation of salicylic acid mediated signaling pathway",1.74659785137503,0
+"GO:0032870","cellular response to hormone stimulus",1.74659785137503,2.79049903933558
+"GO:0000165","MAPK cascade",1.65963299303908,0
+"GO:0090351","seedling development",1.60746382320539,0
+"GO:0009414","response to water deprivation",1.54986137072814,2.79049903933558
+"GO:0006730","one-carbon metabolic process",1.54405898707641,0
+"GO:0006457","protein folding",1.53389735091419,0
+"GO:0016311","dephosphorylation",1.53389735091419,0
+"GO:0034309","primary alcohol biosynthetic process",1.53317277772222,0
+"GO:0046655","folic acid metabolic process",1.49313310687097,0
+"GO:0010030","positive regulation of seed germination",1.46578464470535,0
+"GO:0006970","response to osmotic stress",1.46578464470535,0
+"GO:0009863","salicylic acid mediated signaling pathway",1.46578464470535,0
+"GO:0009415","response to water",1.46578464470535,2.79022443867824
+"GO:0007165","signal transduction",1.46578464470535,2.46462986844617
+"GO:0048583","regulation of response to stimulus",1.44657467181895,0
+"GO:0120255","olefinic compound biosynthetic process",1.3928914244921,0
+"GO:0034050","symbiont-induced defense-related programmed cell death",1.38338239979326,0
+"GO:0023052","signaling",1.38338239979326,2.41893472793212
+"GO:0009626","plant-type hypersensitive response",1.38338239979326,0
+"GO:0009228","thiamine biosynthetic process",1.36208219263926,0
+"GO:0001101","response to acid chemical",1.36208219263926,2.72243876883216
+"GO:0009651","response to salt stress",1.36208219263926,0
+"GO:0009657","plastid organization",1.34350170058854,0
+"GO:2000022","regulation of jasmonic acid mediated signaling pathway",0,3.94952271221864
+"GO:0009867","jasmonic acid mediated signaling pathway",0,2.72243876883216
+"GO:0071398","cellular response to fatty acid",0,2.67604294106234
+"GO:0071395","cellular response to jasmonic acid stimulus",0,2.67604294106234
+"GO:0009611","response to wounding",0,2.48459057006198
+"GO:0009737","response to abscisic acid",0,2.46462986844617
+"GO:0097305","response to alcohol",0,2.46462986844617
+"GO:0071396","cellular response to lipid",0,2.46462986844617
+"GO:0070542","response to fatty acid",0,2.46462986844617
+"GO:0031347","regulation of defense response",0,2.46462986844617
+"GO:0009753","response to jasmonic acid",0,2.46462986844617
+"GO:0007154","cell communication",0,2.37825872360726
+"GO:0046777","protein autophosphorylation",0,2.01769688026251
+"GO:0006568","L-tryptophan metabolic process",0,1.68013932261104
+"GO:1901701","cellular response to oxygen-containing compound",0,1.66692189567582
+"GO:0006586","indolalkylamine metabolic process",0,1.66001460376931
+"GO:0070588","calcium ion transmembrane transport",0,1.60164746642012
+"GO:0080134","regulation of response to stress",0,1.50055911325415
+"GO:0042430","indole-containing compound metabolic process",0,1.49663830932487
+"GO:0006816","calcium ion transport",0,1.45688291448662
+"GO:0055062","phosphate ion homeostasis",0,1.45544930237083
+"GO:0009631","cold acclimation",0,1.45544930237083
+"GO:0009269","response to desiccation",0,1.45544930237083
+"GO:0006569","L-tryptophan catabolic process",0,1.45544930237083
+"GO:0042436","indole-containing compound catabolic process",0,1.45544930237083
+"GO:0019441","L-tryptophan catabolic process to kynurenine",0,1.45544930237083
+"GO:1902221","erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process",0,1.37283891676401
+"GO:0006720","isoprenoid metabolic process",0,1.36812117413689

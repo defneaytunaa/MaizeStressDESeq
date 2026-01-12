@@ -1,0 +1,64 @@
+"term_id","term_name","source","p_value","intersection_size","term_size","query_size"
+"GO:1901700","response to oxygen-containing compound","GO:BP",4.4492056955707e-05,26,595,280
+"GO:0009725","response to hormone","GO:BP",4.4492056955707e-05,32,885,280
+"GO:0009719","response to endogenous stimulus","GO:BP",4.4492056955707e-05,32,886,280
+"GO:0042221","response to chemical","GO:BP",4.95578789720793e-05,47,1652,280
+"GO:2000022","regulation of jasmonic acid mediated signaling pathway","GO:BP",0.000112325222562323,7,40,280
+"GO:0033993","response to lipid","GO:BP",0.000154292687569107,18,360,280
+"GO:2001141","regulation of RNA biosynthetic process","GO:BP",0.000723277884933211,63,2811,280
+"GO:0006355","regulation of DNA-templated transcription","GO:BP",0.000723277884933211,63,2811,280
+"GO:0019219","regulation of nucleobase-containing compound metabolic process","GO:BP",0.00161994757724244,64,2993,280
+"GO:0050789","regulation of biological process","GO:BP",0.00161994757724244,101,5424,280
+"GO:0009414","response to water deprivation","GO:BP",0.00161994757724244,7,67,280
+"GO:0032870","cellular response to hormone stimulus","GO:BP",0.00161994757724244,22,633,280
+"GO:0071495","cellular response to endogenous stimulus","GO:BP",0.00161994757724244,22,634,280
+"GO:0009755","hormone-mediated signaling pathway","GO:BP",0.00161994757724244,22,624,280
+"GO:0051252","regulation of RNA metabolic process","GO:BP",0.00162097218002142,63,2944,280
+"GO:0009415","response to water","GO:BP",0.00162097218002142,7,70,280
+"GO:0001101","response to acid chemical","GO:BP",0.00189479064200891,7,73,280
+"GO:0009867","jasmonic acid mediated signaling pathway","GO:BP",0.00189479064200891,7,73,280
+"GO:0071398","cellular response to fatty acid","GO:BP",0.00210841966868303,7,76,280
+"GO:0071395","cellular response to jasmonic acid stimulus","GO:BP",0.00210841966868303,7,76,280
+"GO:0050794","regulation of cellular process","GO:BP",0.00210841966868303,96,5181,280
+"GO:0009611","response to wounding","GO:BP",0.00327649439937336,7,82,280
+"GO:0031347","regulation of defense response","GO:BP",0.00343060038133356,8,113,280
+"GO:0070542","response to fatty acid","GO:BP",0.00343060038133356,7,86,280
+"GO:0009737","response to abscisic acid","GO:BP",0.00343060038133356,10,177,280
+"GO:0071396","cellular response to lipid","GO:BP",0.00343060038133356,12,249,280
+"GO:0007165","signal transduction","GO:BP",0.00343060038133356,37,1505,280
+"GO:0097305","response to alcohol","GO:BP",0.00343060038133356,10,180,280
+"GO:0009753","response to jasmonic acid","GO:BP",0.00343060038133356,7,86,280
+"GO:0006351","DNA-templated transcription","GO:BP",0.0037020533202989,63,3098,280
+"GO:0023052","signaling","GO:BP",0.00381123099791596,37,1518,280
+"GO:0065007","biological regulation","GO:BP",0.00396513983975383,102,5742,280
+"GO:0007154","cell communication","GO:BP",0.00418544150219927,37,1530,280
+"GO:0046777","protein autophosphorylation","GO:BP",0.00960070487549515,6,75,280
+"GO:0050896","response to stimulus","GO:BP",0.0115931534324967,83,4589,280
+"GO:0080090","regulation of primary metabolic process","GO:BP",0.0161887529129959,64,3358,280
+"GO:0010468","regulation of gene expression","GO:BP",0.0201112536019621,65,3456,280
+"GO:0006568","L-tryptophan metabolic process","GO:BP",0.0208862598762459,4,35,280
+"GO:0010556","regulation of macromolecule biosynthetic process","GO:BP",0.0208862598762459,65,3468,280
+"GO:1901701","cellular response to oxygen-containing compound","GO:BP",0.0215316892979561,12,324,280
+"GO:0006586","indolalkylamine metabolic process","GO:BP",0.0218768805859189,4,36,280
+"GO:0009889","regulation of biosynthetic process","GO:BP",0.0231813628060154,65,3492,280
+"GO:0070887","cellular response to chemical stimulus","GO:BP",0.024201773437333,25,1001,280
+"GO:0070588","calcium ion transmembrane transport","GO:BP",0.0250237581244048,5,64,280
+"GO:0080134","regulation of response to stress","GO:BP",0.031582091449045,8,172,280
+"GO:0042430","indole-containing compound metabolic process","GO:BP",0.0318685050101033,4,41,280
+"GO:0006816","calcium ion transport","GO:BP",0.0349234456172955,5,70,280
+"GO:0009269","response to desiccation","GO:BP",0.0350389188808257,2,6,280
+"GO:0055062","phosphate ion homeostasis","GO:BP",0.0350389188808257,2,6,280
+"GO:0006569","L-tryptophan catabolic process","GO:BP",0.0350389188808257,2,6,280
+"GO:0019441","L-tryptophan catabolic process to kynurenine","GO:BP",0.0350389188808257,2,6,280
+"GO:0042436","indole-containing compound catabolic process","GO:BP",0.0350389188808257,2,6,280
+"GO:0009631","cold acclimation","GO:BP",0.0350389188808257,3,21,280
+"GO:0060255","regulation of macromolecule metabolic process","GO:BP",0.0402534325448973,66,3674,280
+"GO:0006470","protein dephosphorylation","GO:BP",0.0423800127699049,7,147,280
+"GO:1902221","erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process","GO:BP",0.0423800127699049,5,76,280
+"GO:0006720","isoprenoid metabolic process","GO:BP",0.0428428966142299,9,230,280
+"GO:0003700","DNA-binding transcription factor activity","GO:MF",7.06600784241106e-06,48,1623,304
+"GO:0140110","transcription regulator activity","GO:MF",3.50971252666687e-05,49,1806,304
+"GO:0005509","calcium ion binding","GO:MF",0.00041527353630141,18,401,304
+"GO:0043565","sequence-specific DNA binding","GO:MF",0.0247703594694507,29,1150,304
+"GO:0015085","calcium ion transmembrane transporter activity","GO:MF",0.0308267697570641,5,52,304
+"GO:0004674","protein serine/threonine kinase activity","GO:MF",0.0308267697570641,29,1184,304

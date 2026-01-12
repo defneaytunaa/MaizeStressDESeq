@@ -1,0 +1,2 @@
+"query","significant","p_value","term_size","query_size","intersection_size","precision","recall","term_id","source","term_name","effective_domain_size","source_order","parents"
+"query_1",TRUE,0.00988805727672703,105,238,18,0.0756302521008403,0.171428571428571,"KEGG:04016","KEGG","MAPK signaling pathway - plant",3709,249,"KEGG:00000"
